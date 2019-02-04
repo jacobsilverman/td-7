@@ -1,5 +1,26 @@
 {
   "name": "Jacob Silverman",
-  "description": "Some stuff about me will go here.",
-  "image_url": "../static/images/Profile.png"
+  "description": "Australian living in NYC. Experience in Sales and Software Development. Currently undertaking theTeam Treehouse Full Stack Javascript Techdegree. Looking for work. Hire me!",
+  "shortbio": "Australian living in NYC. Experience in Sales and Software Development. Currently undertaking the Team Treehouse Full Stack Javascript Techdegree. Looking for work. Hire me!",
+  "image_url": "../static/images/Profile.png",
+  "lead": "Full Stack JavaScript Developer",
+  "bio": "This is my elevator pitch. It is the elevator pitch to end all elevator pitches. Your mind is blown. Your mortal brain can scarcely process how well my prior experience maps to your open dev position.",
+  "skills": [
+    "Html",
+    "Css",
+    "Javascript",
+    "Node.js",
+    "Express",
+    "Sales",
+    "Agile Methods",
+    "Lean Startup",
+    "Sketch App Wireframing"
+  ],
+  "contact": [
+    "929-238-2665",
+    "silverman@me.com"
+  ],
+  "linkedin": "https://www.linkedin.com/in/silvermanjacob/",
+  "github": "https://github.com/jacobsilverman/",
+  "twitter": "https://twitter.com/JacobSilverman"
 }
