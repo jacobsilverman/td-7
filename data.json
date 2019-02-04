@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Random Quote Generator",
+      "description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-1",
+      "image_urls": [
+        "../static/images/td-1-550x.png",
+        "../static/images/td-1-1200x550-1.png"
+      ]
+    }, {
+      "id": 2,
+      "project_name": "Pagination & Content Filter",
+      "description": "Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into 'pages'. As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-2",
+      "image_urls": [
+        "../static/images/td-2 550x550 1.png",
+        "../static/images/td-2 1200x550 1.png"
+      ]
+    }, {
+      "id": 3,
+      "project_name": "Build an Interactive Form",
+      "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-3",
+      "image_urls": [
+        "../static/images/td-3 550x550.png",
+        "../static/images/td-3 1200x550 1.png"
+      ]
+    }, {
+      "id": 4,
+      "project_name": "OOP Game App",
+      "description": "Create a browser-based, word guessing game: 'Phrase Hunter.' You’ll use JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-4",
+      "image_urls": [
+        "../static/images/td-4 550x550.png",
+        "../static/images/td-4 1200x550 1.png"
+      ]
+    }, {
+      "id": 5,
+      "project_name": "Use a Public API to Create an Employee Directory",
+      "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-5",
+      "image_urls": [
+        "../static/images/td-5 550x550.png",
+        "../static/images/td-5 1200x550 1.png"
+      ]
+    }, {
+      "id": 6,
+      "project_name": "Build a Content Scraper",
+      "description": "Build a data-mining application using Node.js. JavaScript isn't just for browsers — it can be used on web servers and even your own computer. Create a command-line application to read a web page, extract information, and store the data in a text file.",
+      "technologies": [
+        "Javascript",
+        "Html",
+        "Css",
+        "Node.js"
+      ],
+      "live_link": "https://jacobsilverman.github.io/",
+      "github_link": "https://github.com/jacobsilverman/td-6",
+      "image_urls": [
+        "../static/images/td-6 550x550.png",
+        "../static/images/td-6 1200x550 1.png"
+      ]
+    }
+  ]
+}
