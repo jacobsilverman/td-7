@@ -1,0 +1,12 @@
+.error-info {
+  margin-left: 38px;
+}
+
+.thumbnail {
+  box-shadow: 5px 5px 18px rgba(46, 61, 73, .2);
+  border-radius: 3px;
+}
+
+* {
+  font-family: Arial !important;
+}
