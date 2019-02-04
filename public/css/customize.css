@@ -5,6 +5,11 @@
 .thumbnail {
   box-shadow: 5px 5px 18px rgba(46, 61, 73, .2);
   border-radius: 3px;
+  transition: transform .2s; /* Animation */
+}
+
+.thumbnail:hover {
+  transform: scale(1.05);
 }
 
 * {
