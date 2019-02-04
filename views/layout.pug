@@ -15,19 +15,13 @@ html(class="no-js" lang="en" dir="ltr")
         block sidebar
           br
           .cell.shrink
-            //img.thumbnail(src=`${context.about.image_url}`)
             img.thumbnail(src=`../static/images/Profile.png`)
           .cell.auto
-            //- Add your name here.
             h5 #{context.about.name}
-            //h5 Jacob Silverman
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
-              //| #{context.about.description}
               | #{context.about.shortbio}
 
-            //- Add about page route to the href below. 
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -35,9 +29,8 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
-          //span.title-bar-title #{context.about.name}
-          span.title-bar-title Jacob Silverman
+          //- This is for the mobile screen sized version.
+          span.title-bar-title #{context.about.name}
       block content
         
 

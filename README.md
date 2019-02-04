@@ -7,8 +7,8 @@ I went for exceeds grade by:
 - Adding box shadow and border radius to the thumbnail class
 - Added css animation zoom on hover to thumbnail class
 
-I moved the /images directory to the /public directory.
+Projects 1-3 and 5-6 have only 1 image (min required). Project 4 has 4 images as a demo that I know how to add more images and use the each operator inside PUG files.
 
-I created a data folder and have all my user defined text in there. I thought this is more efficient than putting it in
-the pug files. The user can change everything they need to change in the json and it propagates through the pug files
-by string interpolation. I left the data.json file in the root directory since that was int he project requirements.
+I use a combination of interpolation and template literals as needed to dynamically generate the the text inside the PUG files, instead of hardcoding the text because it is more convenient for me to add copywriting text in one place (the JSON) than to search through the PUG file for the hardcoded text. I created a data folder and have all the user defined text / copywriting in there. I left the data.json file in the root directory since that was in the project requirements but there are two additional json files in the data folder.
+
+I removed all the instructions from PUG files.
